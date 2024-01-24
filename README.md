@@ -3,8 +3,13 @@ A guide on how to mod Palworld. I will be honest I am mainly putting this here s
 
 # THIS (CURRENTLY) IS FOR CREATING REPLACEMENT MODS ONLY
 
+#Requisites
+[FModel](https://fmodel.app)
+[UnrealPak](https://github.com/allcoolthingsatoneplace/UnrealPakTool)
+[Unreal Engine](https://www.unrealengine.com/en-US)
+
 # Extracting Files
-Use FModel - https://fmodel.app
+Use [FModel](https://fmodel.app)
 
 # FModel Tutorial
 Run Fmodel, click on "Add Undetected game", type any name and enter the directory path to Palworld game. Click on the blue plus button.
@@ -41,7 +46,17 @@ Advanced:
 Now you can start recreating folder structure in your project and import your assets like png textures and stuff
 
 # Folder Structure
+Proper folder structure example:
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/fe05a961-6227-4f5b-be56-fb0c7dc0ac60)
 
+If you've added all the resources you wanted, you can now cook content.
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/f9ad0d2a-7559-4b75-b578-0e4cf20ce6d9)
+
+When cooking process is done, go to your project folder, open Saved folder, then open Cooked folder.
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/5f45b76e-e6e5-4523-83e1-254e5c736609)
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/44e763c5-8afe-40fa-97d2-3c6d8240e96a)
+
+Your uasset and uexp files gonna be here.
 
 # Packaging
 Packaging settings for your mod Unreal Engine 5.1.1 project
