@@ -99,7 +99,9 @@ Packaging --> Advanced ---> Cook everything  in the project content directory
 Texture names:
 
 <Texturenamehere>_B = Base texture
+
 <Texturenamehere>_M = MRAO (MetallicRoughnessOcclusionSpecular)
+
 <Texturenamehere>_N = Normal Map
 
 Normal map can be created with online software or Crazybump
