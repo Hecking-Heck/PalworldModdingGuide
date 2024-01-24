@@ -6,7 +6,9 @@ An extensive guide on how to mod Palworld. I will be honest I am mainly putting 
 
 # Requisites
 [FModel](https://fmodel.app)
+
 [UnrealPak](https://github.com/allcoolthingsatoneplace/UnrealPakTool)
+
 [Unreal Engine](https://www.unrealengine.com/en-US)
 
 # Extracting Files
