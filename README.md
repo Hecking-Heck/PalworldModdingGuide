@@ -13,7 +13,7 @@ Go to settings and enable Local Mapping File
 Select Mappings.usmap file under Mapping file path
 Now you're able to explore game files and export textures/models and stuff!
 
-Credit NorskPL on the Palworld Modding Community Discord Server [link](https://discord.gg/qHTZNcvYsv)
+Credit NorskPL on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
 
 Note: Fmodel requires .NET 8.0 Desktop Runtime installed on your computer!
 
@@ -31,4 +31,8 @@ Original Modding Kit - https://github.com/localcc/PalworldModdingKit
 
 # Credits
 https://github.com/localcc
+
+# HELP
+For more help go here
+[Palworld Modding Community Discord](https://discord.gg/qHTZNcvYsv)
 
