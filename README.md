@@ -74,8 +74,11 @@ Original Modding Kit - https://github.com/localcc/PalworldModdingKit
 # Credits
 [LocalCC](https://github.com/localcc)
 Huge thanks to NorskPL on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
+
 [FModel](https://fmodel.app)
+
 [UnrealPak](https://github.com/allcoolthingsatoneplace/UnrealPakTool)
+
 [Unreal Engine](https://www.unrealengine.com/en-US)
 
 # Help
