@@ -114,7 +114,7 @@ My personal Fork of the Modding Kit - https://github.com/Hecking-Heck/PalworldMo
 
 # A cool video on how to model swap with Palworld
 Made by Sleepyhead08 on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
-[![Watch the video](https://www.youtube.com/watch?v=NESKhITrbgI)
+[Watch the video](https://youtu.be/NESKhITrbgI?si=lNH2VNSbBFYKQ-Hc)
 
 # Credits
 [LocalCC](https://github.com/localcc)
