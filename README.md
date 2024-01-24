@@ -1,5 +1,6 @@
 # Palworld Modding Guide
 An extensive guide on how to mod Palworld. I will be honest I am mainly putting this here so I can keep reminding myself.
+
 HUGE NOTE: Nearly everything here has been parroted by me since I am using this as my own personal notes. So go thank NorskPL and the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv) for being the ones to make this all possible.
 
 # My Mods
@@ -106,9 +107,18 @@ MRAO creation tutorial: https://dev.epicgames.com/community/learning/tutorials/6
 
 (I will continue to add to this as I learn and understand more about what I am doing)
 
-# Cool Stuff
-Modding Kit - https://github.com/Hecking-Heck/PalworldModdingKit
+# Modding Kit
 Original Modding Kit - https://github.com/localcc/PalworldModdingKit
+
+My personal Fork of the Modding Kit - https://github.com/Hecking-Heck/PalworldModdingKit
+
+# A cool video on how to model swap with Palworld
+Made by Sleepyhead08 on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
+
+[Watch the video](https://youtu.be/NESKhITrbgI?si=lNH2VNSbBFYKQ-Hc)
+
+# Want to mod a Palworld Steam Dedicated Server?
+[Palworld Steam Dedicated Server Modding Guide](https://forums.nexusmods.com/topic/13466235-how-to-enable-steam-dedicated-server-mods-for-palworld/)
 
 # Credits
 [LocalCC](https://github.com/localcc)
