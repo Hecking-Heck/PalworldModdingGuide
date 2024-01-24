@@ -109,7 +109,8 @@ MRAO creation tutorial: https://dev.epicgames.com/community/learning/tutorials/6
 
 # Cool Stuff
 Modding Kit - https://github.com/Hecking-Heck/PalworldModdingKit
-Original Modding Kit - https://github.com/localcc/PalworldModdingKit
+
+Forked From - https://github.com/localcc/PalworldModdingKit
 
 # Credits
 [LocalCC](https://github.com/localcc)
