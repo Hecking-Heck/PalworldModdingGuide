@@ -1,10 +1,10 @@
 # Palworld Modding Guide
 An extensive guide on how to mod Palworld. I will be honest I am mainly putting this here so I can keep reminding myself.
 
-#My Mods
+# My Mods
 [NexusMods](https://www.nexusmods.com/users/56638927)
 
-#Requisites
+# Requisites
 [FModel](https://fmodel.app)
 [UnrealPak](https://github.com/allcoolthingsatoneplace/UnrealPakTool)
 [Unreal Engine](https://www.unrealengine.com/en-US)
