@@ -73,6 +73,7 @@ Original Modding Kit - https://github.com/localcc/PalworldModdingKit
 
 # Credits
 [LocalCC](https://github.com/localcc)
+
 Huge thanks to NorskPL on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
 
 [FModel](https://fmodel.app)
