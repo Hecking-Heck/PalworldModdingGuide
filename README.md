@@ -1,7 +1,8 @@
-# PalworldModdingGuide
-A guide on how to mod Palworld. I will be honest I am mainly putting this here so I can keep reminding myself.
+# Palworld Modding Guide
+An extensive guide on how to mod Palworld. I will be honest I am mainly putting this here so I can keep reminding myself.
 
-# THIS (CURRENTLY) IS FOR CREATING REPLACEMENT MODS ONLY
+#My Mods
+[NexusMods](https://www.nexusmods.com/users/56638927)
 
 #Requisites
 [FModel](https://fmodel.app)
@@ -69,8 +70,11 @@ Modding Kit - https://github.com/Hecking-Heck/PalworldModdingKit
 Original Modding Kit - https://github.com/localcc/PalworldModdingKit
 
 # Credits
-LocalCC - https://github.com/localcc
+[LocalCC](https://github.com/localcc)
 Huge thanks to NorskPL on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
+[FModel](https://fmodel.app)
+[UnrealPak](https://github.com/allcoolthingsatoneplace/UnrealPakTool)
+[Unreal Engine](https://www.unrealengine.com/en-US)
 
 # Help
 For more help go here
