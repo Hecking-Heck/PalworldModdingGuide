@@ -1,8 +1,9 @@
 # Palworld Modding Guide
 An extensive guide on how to mod Palworld. I will be honest I am mainly putting this here so I can keep reminding myself.
+HUGE NOTE: Nearly everything here has been parroted by me since I am using this as my own personal notes. So go thank NorskPL and the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv) for being the ones to make this all possible.
 
 # My Mods
-[NexusMods](https://www.nexusmods.com/users/56638927)
+[Nexus Mods](https://www.nexusmods.com/users/56638927)
 
 # Requisites
 [FModel](https://fmodel.app)
@@ -61,11 +62,49 @@ When cooking process is done, go to your project folder, open Saved folder, then
 
 Your uasset and uexp files gonna be here.
 
-# Packaging
+# Creating a PAK file
+Mod .pak file creation
+
+You gonna need UnrealPak for this.
+
+Unpack UnrealPak zip and create new folder with projectnamehere_P name
+
+Recreate folder structure to look the same way you see it in fmodel.
+
+Drop uasset and uexp files from your cooked folder to the appropriate folders.
+
+Now drop folder with projectnamehere_P name into UnrealPak-With-Compression.bat
+
+It will generate your mod pak file with name projectnamehere_P
+
+Move that mod pak file into Palworld\Pal\Content\Paks and run the game.
+
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/3e5d53c4-6dab-458c-b309-1b464fce7fd9)
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/b3ce77af-cc9b-4a04-b451-99fefd6bad40)
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/53b45ef5-c7c6-485d-9f03-3600a2c62d8e)
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/a2c84d0d-dce0-4ad0-a684-0cac5cb4c4e3)
+
+# Mod Example
+Mod Example (folder structure and unrealpak included)
+These can be found in the repo, they are named UnrealPak.zip and PalworldModExample.zip
+
+# Packaging Notes
 Packaging settings for your mod Unreal Engine 5.1.1 project
 
 Use Pak file only
 Packaging --> Advanced ---> Cook everything  in the project content directory
+
+# Notes on Texture Names
+Texture names:
+
+<Texturenamehere>_B = Base texture
+<Texturenamehere>_M = MRAO (MetallicRoughnessOcclusionSpecular)
+<Texturenamehere>_N = Normal Map
+
+Normal map can be created with online software or Crazybump
+MRAO creation tutorial: https://dev.epicgames.com/community/learning/tutorials/6Gn5/creating-mrao-textures-using-free-software
+
+(I will continue to add to this as I learn and understand more about what I am doing)
 
 # Cool Stuff
 Modding Kit - https://github.com/Hecking-Heck/PalworldModdingKit
