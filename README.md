@@ -117,6 +117,9 @@ Made by Sleepyhead08 on the [Palworld Modding Community Discord Server](https://
 
 [Watch the video](https://youtu.be/NESKhITrbgI?si=lNH2VNSbBFYKQ-Hc)
 
+# Want to mod a Palworld Steam Dedicated Server?
+[Palworld Steam Dedicated Server Modding Guide](https://forums.nexusmods.com/topic/13466235-how-to-enable-steam-dedicated-server-mods-for-palworld/)
+
 # Credits
 [LocalCC](https://github.com/localcc)
 
