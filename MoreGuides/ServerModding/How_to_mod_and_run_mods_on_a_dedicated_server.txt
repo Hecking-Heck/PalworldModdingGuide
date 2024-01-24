@@ -1,0 +1,82 @@
+How To Enable STEAM Dedicated Server Mods 1/23/2024
+
+I am presuming before you begin you have port forwarded and configured all the back-end tech items before proceeding.
+
+Before you begin, ensure you have a FRESH NON MODDED install of Palworld. Both Local and your Dedicated Server. I am using a STEAMCMD dedi server. Not the Palworld Dedicated Server TOOL.
+
+*** After trial and error, I have determined that Dedicated Server & Client MUST HAVE the same mods installed, BUT Server controls the mod values. Values I have tested... all player stats, health, stam, attack, workspeed & weight. Stat points gained per level.
+Tech per level. Tested using the mods below. I have not tested if you tweak values server side if they will enable or remain at current values upon initial server start (very first time server launches)***
+
+IMPORTANT NOTE.. If you have a ' cache ' folder & ' U4ESS.log ' and ' imgui.ini ' ... within the win64 folder, of your dedicated server, delete them before starting a new save AND/OR modding a existing dedi server. Seems to be the trick.. So far. If you tweak your mods, YOU MUST delete the aforementioned files for both your dedicated
+and your client, if you use the same pc for both.
+
+After you have completed installing and tweaking your mods, you will launch your dedicated with the PalServerInject.exe ... If you were successful, your server will start. At which you can then launch Palworld and connect directly. If it seems that your mods have not loaded, shutdown palworld and your server. Allow the save
+file to be created/updated. Then try again. In some cases this is what I noticed. 
+
+Following this video guide will get your started
+
+https://www.youtube.com/watch?v=ouHChMM7CtA&t=1s&ab_channel=Sinergy
+
+UNFORTUNATELY YOU MUST START A NEW SAVE FOR MODS TO APPLY. Depending on which mods you are aiming to use. 
+For testing purposes I did a new SERVER save. With new character.
+
+Items Needed
+
+PalWorldPatchTool_1.0
+https://github.com/NattKh/PalWorld-Tools/releases/tag/Release
+
+PalWorld-ServerInjector
+https://github.com/N00byKing/PalWorld-ServerInjector/releases
+
+
+With the PalWorldPatchTool you will just follow the prompts and ensure to select the appropriate location for each install respectively.
+
+Dedicated - G:\SteamLibrary\steamapps\common\Palworld Dedicated Server\Palpagos Island - Modded\Pal\Binaries\Win64
+Local - G:\SteamLibrary\steamapps\common\Palworld\Pal\Binaries\Win64
+
+With the PalWorld-ServerInjector you need the following files:
+PalServerInject.exe
+UE4SS.dll
+
+Place these two files into your dedicated server ' WIN64 ' folder
+
+Using your dedicated server as the "host" for tweaking your mods to your liking, then copy the mods folder to your Palworld LOCAL install BUT ONLY AFTER tweaking your mods.txt to activate your mods and/or creating 
+a ' enable.txt ' file withing each mod folder to activate it automatically. Also enable your mods within the mods.txt .... MATCH FOLDER NAMES EXACTLY
+
+EXAMPLE:
+
+FlyingMountSPUsage : 1
+MapUnlocker : 1
+PlayerPointsPerLevel : 1
+PlayerSPUsage : 1
+PlayerWeight : 1
+RarePalAppearRate_AndLevel : 1
+PalBoxReviveTime: 1
+GameTweaks: 1
+
+For all intents and purposes I am using the following mods:
+
+INCLUDED WITH PalWorldPatchTool::
+
+FlyingMountSPUsage
+MapUnlocker
+PlayerPointsPerLevel
+PlayerSPUsage
+PlayerWeight
+RarePalAppearRate_AndLevel
+
+Nexus Mods::
+
+GameTweaks   ---- While this mod has similar features of the mods included with PalWorldPatchTool, it also has options not yet available. If you tweak the mods provided with PalWorldPatchTool and you are using GameTweaks,
+insure to tweak GameTweaks to match the respective values of the other mods. *** I have not updated my version to reflect the version released 1/23/2024. I am in the process of testing the waters with the latest version. ***
+
+Side Note - when using latest GAMETWEAKS vers ' game tweaks-14-1-0-0-4-1706037283 ' (nexusmods) (1/23/2024 @ 3:45pm), values in gametweaks need to be set first, THEN change the values in the other mods to match those in gametweaks. 
+It is my presumption that some of the extra mods, while they serve the similar option within gametweaks, it is my theory that gametweaks is missing info and the other mods are just filling in the holes until gametweaks fills in the missing gaps.
+
+Found on the Palworld Modding Discord
+
+PalBoxReviveTime
+
+***************************
+
+Again a NEW character is recommended. Unless you have perfected a method of copying your palbox contents from one world save to another. To attempt to keep your pals atleast.
