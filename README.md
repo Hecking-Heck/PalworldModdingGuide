@@ -150,7 +150,7 @@ Using all of the steps above I was able to make a Pippa mod, while it may not be
 At least we know that these steps work and that they produce a good result. Any issues lemme know and I will be sure to update this page with more info.
 If you have any suggestions let me know, I know I need to format the page a bit better for example.
 
-[Pipkin Pippa Mod](www.nexusmods.com/palworld/mods/91)
+[Pipkin Pippa Mod](https://www.nexusmods.com/palworld/mods/91)
 
 
 # Extra Help
