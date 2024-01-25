@@ -2,6 +2,7 @@
 An extensive guide on how to mod Palworld. I will be honest I am mainly putting this here so I can keep reminding myself.
 
 HUGE NOTE: Nearly everything here has been parroted by me since I am using this as my own personal notes. So go thank NorskPL and the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv) for being the ones to make this all possible.
+
 ANOTHER HUGE NOTE: If you have any issues I have a small section at the bottom dedicated to the ones I found. If your issue isn't there then check the Discord, also linked below!
 
 # My Mods
