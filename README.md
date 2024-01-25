@@ -126,19 +126,22 @@ Made by Sleepyhead08 on the [Palworld Modding Community Discord Server](https://
 # Issues and Fixes
 
 ISSUE 1 - STICKMAN MODE
+
 ![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/94a06ecd-a81b-404b-bbee-d457d8fde274)
 
 If this is you, I have a solution!
 
 I had an issue with scaling, I changed the .psk importer settings in Blender so it did not Scale Down
+
 ![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/c385bec0-bd59-4242-80e5-ee83e7566eb9)
 
 Then when exporting I scaled the entire FBX down to 0.01
+
 ![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/630f2487-c458-42f9-a083-273ae55f3d37)
 
 After doing this my mesh in-game did not look like a stickman anymore.
-![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/786d8bf6-f224-4d6d-9c73-b6967bfe98b6)
 
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/786d8bf6-f224-4d6d-9c73-b6967bfe98b6)
 
 
 # Credits
