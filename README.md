@@ -159,7 +159,7 @@ For more help go here
 
 
 # Credits
-[LocalCC](https://github.com/localcc)
+[LocalCC - Palworld Modding Kit](https://github.com/localcc)
 
 Huge thanks to NorskPL on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
 
