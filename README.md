@@ -142,8 +142,6 @@ Then when exporting I scaled the entire FBX down to 0.01
 
 After doing this my mesh in-game did not look like a stickman anymore.
 
-![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/786d8bf6-f224-4d6d-9c73-b6967bfe98b6)
-
 # Final Notes
 
 Using all of the steps above I was able to make a Pippa mod, while it may not be 100% perfect that's mainly on my poor rigging :)
