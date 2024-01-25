@@ -2,6 +2,7 @@
 An extensive guide on how to mod Palworld. I will be honest I am mainly putting this here so I can keep reminding myself.
 
 HUGE NOTE: Nearly everything here has been parroted by me since I am using this as my own personal notes. So go thank NorskPL and the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv) for being the ones to make this all possible.
+ANOTHER HUGE NOTE: If you have any issues I have a small section at the bottom dedicated to the ones I found. If your issue isn't there then check the Discord, also linked below!
 
 # My Mods
 [Nexus Mods](https://www.nexusmods.com/users/56638927)
@@ -121,6 +122,24 @@ Made by Sleepyhead08 on the [Palworld Modding Community Discord Server](https://
 
 # Want to mod a Palworld Steam Dedicated Server?
 [Palworld Steam Dedicated Server Modding Guide](https://forums.nexusmods.com/topic/13466235-how-to-enable-steam-dedicated-server-mods-for-palworld/)
+
+# Issues and Fixes
+
+ISSUE 1 - STICKMAN MODE
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/94a06ecd-a81b-404b-bbee-d457d8fde274)
+
+If this is you, I have a solution!
+
+I had an issue with scaling, I changed the .psk importer settings in Blender so it did not Scale Down
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/c385bec0-bd59-4242-80e5-ee83e7566eb9)
+
+Then when exporting I scaled the entire FBX down to 0.01
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/630f2487-c458-42f9-a083-273ae55f3d37)
+
+After doing this my mesh in-game did not look like a stickman anymore.
+![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/786d8bf6-f224-4d6d-9c73-b6967bfe98b6)
+
+
 
 # Credits
 [LocalCC](https://github.com/localcc)
