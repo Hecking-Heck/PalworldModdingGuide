@@ -144,12 +144,18 @@ After doing this my mesh in-game did not look like a stickman anymore.
 
 ![image](https://github.com/Hecking-Heck/PalworldModdingGuide/assets/33295627/786d8bf6-f224-4d6d-9c73-b6967bfe98b6)
 
+# Final Notes
 
 Using all of the steps above I was able to make a Pippa mod, while it may not be 100% perfect that's mainly on my poor rigging :)
 At least we know that these steps work and that they produce a good result. Any issues lemme know and I will be sure to update this page with more info.
 If you have any suggestions let me know, I know I need to format the page a bit better for example.
 
 [Pipkin Pippa Mod](www.nexusmods.com/palworld/mods/91)
+
+
+# Extra Help
+For more help go here
+[Palworld Modding Community Discord](https://discord.gg/qHTZNcvYsv)
 
 
 # Credits
@@ -164,8 +170,4 @@ Images are from NorskPL on the [Palworld Modding Community Discord Server](https
 [UnrealPak](https://github.com/allcoolthingsatoneplace/UnrealPakTool)
 
 [Unreal Engine](https://www.unrealengine.com/en-US)
-
-# Help
-For more help go here
-[Palworld Modding Community Discord](https://discord.gg/qHTZNcvYsv)
 
