@@ -148,6 +148,7 @@ After doing this my mesh in-game did not look like a stickman anymore.
 [LocalCC](https://github.com/localcc)
 
 Huge thanks to NorskPL on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
+
 Images are from NorskPL on the [Palworld Modding Community Discord Server](https://discord.gg/qHTZNcvYsv)
 
 [FModel](https://fmodel.app)
