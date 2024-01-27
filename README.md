@@ -6,8 +6,7 @@ An extensive guide on how to mod Palworld. I will be honest I am mainly putting 
 **ANOTHER HUGE NOTE**: If you have any issues I have a small section at the bottom dedicated to the ones I found. If your issue isn't there then check the Discord, also linked below!
 
 > [!NOTE]
-> - This mainly handles asset swapping, if you want to do some blueprinting and modifying of game code
-> - Use [This](https://github.com/localcc/PalworldModdingKit) instead
+> - This mainly handles asset swapping. If you want to do some blueprinting and modifying of the game code use [This](https://github.com/localcc/PalworldModdingKit) instead.
 
 # My Mods
 [Nexus Mods](https://www.nexusmods.com/users/56638927)
